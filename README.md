@@ -2,7 +2,7 @@
 
 KeenKeeper is a simple and smart friendship management web application. It helps you stay connected with your friends and keep track of your social interactions easily.
 
-# 🛠 Technologies Used
+# Technologies Used
 
 * React.js - For building the user interface.
 * Tailwind CSS - For modern and clean styling.
