@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "DIHAN FERDOUS",
+    "picture": "./DF.jpeg",
+    "email": "dihnferdous99.com",
+    "days_since_contact": 1,
+    "status": "Almost Due",
+    "tags": ["school"],
+    "bio": "Hangout buddy,Traveled in many places together",
+    "goal": 14,
+    "next_due_date": "JUN 12,2026"
+  },
+  {
+    "id": 2,
+    "name": "ANINDITA SHIL",
+    "picture": "./ASR.jpeg",
+    "email": "aninditashil11@gmail.com",
+    "days_since_contact": 2,
+    "status": "overdue",
+    "tags": ["BestFriend"],
+    "bio": "Calling her 'BESTIE' Through my every rise, every fall,She is my side after all.",
+    "goal": 10,
+    "next_due_date": "SEP 07,2026"
+  },
+  {
+    "id": 3,
+    "name": "JUBAITUN NAHAR",
+    "picture": "UJNS.jpeg",
+    "email": "jubaitunnahar33@gmail.com",
+    "days_since_contact": 1826,
+    "status": "On-Track",
+    "tags": ["close friend"],
+    "bio": "Used to talk over-days,nights and evening. But now, we are stranger again!",
+    "goal": 21,
+    "next_due_date": "SEP 04,2026"
+  },
+  {
+    "id": 4,
+    "name": "SAIMON TALUKDER",
+    "picture": "./ST.jpeg",
+    "email": "saimontalukder44@gmail.com",
+    "days_since_contact": 1,
+    "status": "overdue",
+    "tags": ["versatile"],
+    "bio": "Most flexible friend I had ever met!Social worm, Just love him!",
+    "goal": 7,
+    "next_due_date": "JUL 16,2026"
+  },
+  {
+    "id": 5,
+    "name": "UMME HABIBA EMA",
+    "picture": "./UHE.jpeg",
+    "email": "ummehabibaema@gmail.com",
+    "days_since_contact": 1199,
+    "status": "On-Track",
+    "tags": ["Close Friend"],
+    "bio": "Beauty without brain,Very much emotional. Zero patience ~ Pure innocence",
+    "goal": 60,
+    "next_due_date": "MAY 01,2026"
+  },
+  {
+    "id": 6,
+    "name": "IKRAM SHUVO",
+    "picture": "./IHS.jpeg",
+    "email": "ikramshuvo@gmail.com",
+    "days_since_contact": 3,
+    "status": "overdue",
+    "tags": ["neighborhood"],
+    "bio": "Neighbour cum friend , A boy with good heart",
+    "goal": 14,
+    "next_due_date": "APR 14,2026"
+  },
+  {
+    "id": 7,
+    "name": "ABDUL KADER TALHA",
+    "picture": "./AKT.jpeg",
+    "email": "aktalha@gmail.com",
+    "days_since_contact": 3,
+    "status": "overdue",
+    "tags": ["relative"],
+    "bio": "Depressed soul, Could not move on from his ex's trauma",
+    "goal": 30,
+    "next_due_date": "DEC 10,2026"
+  },
+  {
+    "id": 8,
+    "name": "SADIF ALFAZ",
+    "picture": "./SA.jpeg",
+    "email": "sadifalfaz@gmail.com.com",
+    "days_since_contact": 1,
+    "status": "Almost Due",
+    "tags": ["family"],
+    "bio": "My beloved nephew, I always guild him to never make any female friends",
+    "goal": 21,
+    "next_due_date": "JU 08,2026"
+  }
+]
