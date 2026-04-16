@@ -1,21 +1,21 @@
 import { useNavigate } from 'react-router-dom';
 
 const FriendCard = ({ friend }) => {
-  const navigate = useNavigate();
-  
-  const statusStyles = {
+const navigate = useNavigate();
+const statusStyles = {
     "overdue": "bg-red-500 text-white",
     "almost due": "bg-amber-500 text-white",
     "on-track": "bg-[#1D4539] text-white"
   };
 
-  return (
+return (
+
     <div 
       onClick={() => navigate(`/friend/${friend.id}`)}
       className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm hover:shadow-lg transition-all cursor-pointer text-center"
     >
      
-      <img 
+  <img 
         src={friend.picture} 
         alt={friend.name} 
         className="w-20 h-20 rounded-full mx-auto mb-4 object-cover border-2 border-gray-50"
